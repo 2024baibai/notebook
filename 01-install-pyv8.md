@@ -7,7 +7,7 @@ yum install gcc gcc-c++
 ```
 wget https://dl.bintray.com/boostorg/release/1.65.1/source/boost_1_65_1.tar.gz
 tar -zxvf boost_1_65_1.tar.gz  #解压比较长时间
-cd boot_1_65_1
+cd boost_1_65_1
 ./bootstrap.sh
 ./b2
 ```
